@@ -107,11 +107,7 @@
             <span class="loading-text-words">G</span>
             <span class="loading-text-words">A</span>
             <span class="loading-text-words">N</span>
-            <span class="loading-text-words">M</span>
-            <span class="loading-text-words">O</span>
-            <span class="loading-text-words">H</span>
-            <span class="loading-text-words">A</span>
-            <span class="loading-text-words">N</span>
+            <span class="loading-text-words">s</span>
         </div>
     </div>
     <video autoplay controls crossorigin
