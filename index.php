@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="description" content="ENJOY FREE LIVE JIOTV">
     <meta name="keywords" content="JIOTV, LIVETV, SPORTS, MOVIES, MUSIC">
-    <meta name="author" content="Kirodewal">
+    <meta name="author" content="Jagan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no" />
     <title>JIOTV 4.0</title>
     <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
